@@ -1,0 +1,7 @@
+One way data travels on the internet is via light. The benefits of light are that it's fast and there is no signal loss. The cons are that it's expensie and hard to work with.
+
+The relation ship between IP addresses and DNS is that the DNS is the alphabetical reference to the servers IP address.
+
+A cookie is a piece of data sent from a website and stored on the user's computer.
+
+The three parts of a URL are protocol, domain and path.
