@@ -1,9 +1,10 @@
-*{
+body{
   background-color: black;
   font-family: sans-serif;
   color: white;
 }
 .canvas{
+  background-color: black;
   border: 5px #ff00b6;
   width: 800px;
   height: 800px;
