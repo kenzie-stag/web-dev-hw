@@ -1,6 +1,7 @@
 *{
   background-color: black;
   font-family: sans-serif;
+  color: white;
 }
 .canvas{
   border: 5px #ff00b6;
@@ -10,6 +11,7 @@
 }
 .green{
   background-color: #00ff00;
+  color: black;
   width: 200px;
   height: 600px;
   postion: absolute;
