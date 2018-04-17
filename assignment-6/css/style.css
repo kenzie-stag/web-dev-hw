@@ -2,3 +2,33 @@
   background-color: black;
   font-family: sans-serif;
 }
+.canvas{
+  border: 5px #ff00b6;
+  width: 800px;
+  height: 800px;
+  position: absolute;
+}
+.green{
+  background-color: #00ff00;
+  width: 200px;
+  height: 600px;
+  postion: absolute;
+  left: 0;
+  bottom: 100;
+}
+.orange{
+  background-color: #ff7f19
+  width: 300px;
+  height: 400px;
+  position: absolute;
+  left: 200;
+  bottom: 200;
+}
+.pink{
+  background-color: #ff00b6;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 400;
+  bottom: 300;
+}
