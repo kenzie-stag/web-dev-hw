@@ -1,7 +1,7 @@
 body{
   background-color: black;
   font-family: sans-serif;
-  color: white;
+  color: white !important;
 }
 h2{
   font-weight: bolder;
@@ -30,7 +30,7 @@ img{
 /*The orange block overlaps the green and pink*/
 .orange{
   background-color: #ff7f19;
-  opacity: .75 !important;
+  opacity: .75;
   width: 300px;
   height: 400px;
   position: absolute;
