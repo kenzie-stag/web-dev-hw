@@ -12,14 +12,16 @@ h2{
   width: 800px;
   height: 800px;
   position: absolute;
+  left: 10px;
+  bottom: 75px;
 }
 .green{
   background-color: #00ff00;
   color: black;
-  width: 200px;
+  width: 300px;
   height: 600px;
   postion: absolute;
-  left: 0px;
+  left: 0;
   bottom: 100px;
 }
 /*The orange block overlaps the green and pink*/
@@ -34,7 +36,7 @@ h2{
 .pink{
   background-color: #ff00b6;
   opacity: .50;
-  width: 200px;
+  width: 300px;
   height: 200px;
   position: absolute;
   left: 400px;
