@@ -6,6 +6,9 @@ body{
 h2{
   font-weight: bolder;
 }
+img{
+  float: right;
+}
 .canvas{
   background-color: black;
   border: 5px #ff00b6;
