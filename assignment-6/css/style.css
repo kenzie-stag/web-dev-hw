@@ -3,6 +3,9 @@ body{
   font-family: sans-serif;
   color: white;
 }
+h2{
+  font-weight: bolder;
+}
 .canvas{
   background-color: black;
   border: 5px #ff00b6;
@@ -19,6 +22,7 @@ body{
   left: 0;
   bottom: 100;
 }
+/*The orange block overlaps the green and pink*/
 .orange{
   background-color: #ff7f19
   width: 300px;
@@ -29,6 +33,7 @@ body{
 }
 .pink{
   background-color: #ff00b6;
+  opacity: .50;
   width: 200px;
   height: 200px;
   position: absolute;
