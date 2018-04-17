@@ -30,7 +30,7 @@ img{
 /*The orange block overlaps the green and pink*/
 .orange{
   background-color: #ff7f19;
-  opacity: .75 !important;
+  opacity: .10 !important;
   width: 300px;
   height: 400px;
   position: absolute;
