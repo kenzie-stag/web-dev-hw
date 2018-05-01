@@ -1,0 +1,44 @@
+body{
+  background-color: #7f0909;
+}
+.info{
+  color: #d7ac1a;
+}
+p{
+  color: #FFC500;
+}
+.parent-button {
+    min-height: 10em;
+}
+
+.button {
+    font-size: 1.5em;
+    color: white;
+    font-weight: 600;
+    background-color: rgb(28,205,202);
+    border-color: #8f8b8b #383636 #383636 #8f8b8b;
+    border-width: 9px 15px 15px 9px;
+    border-style: solid;
+    position: relative;
+    margin: auto;
+    top: 1em;
+    padding: 1em;
+    width: 9em;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.button:hover {
+    color: #383636;
+    font-style: italic;
+}
+
+.button:active {
+    color: #fff;
+    background-color: rgb(17, 127, 126);
+    border-color: #383636 #8f8b8b #8f8b8b #383636;
+    border-width: 15px 9px 9px 15px;
