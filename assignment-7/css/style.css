@@ -2,7 +2,7 @@ body{
   background-color: #7f0909;
 }
 .info{
-  color: #d7ac1a;
+  color: #ad8b18;
 }
 p{
   color: #FFC500;
@@ -15,8 +15,8 @@ p{
     font-size: 1.5em;
     color: white;
     font-weight: 600;
-    background-color: rgb(28,205,202);
-    border-color: #8f8b8b #383636 #383636 #8f8b8b;
+    background-color: #7f0909;
+    border-color: #ffc500 #ad8b18 #ad8b18 #ffc500;
     border-width: 9px 15px 15px 9px;
     border-style: solid;
     position: relative;
@@ -33,12 +33,12 @@ a {
 }
 
 .button:hover {
-    color: #383636;
+    color: black;
     font-style: italic;
 }
 
 .button:active {
     color: #fff;
-    background-color: rgb(17, 127, 126);
-    border-color: #383636 #8f8b8b #8f8b8b #383636;
+    background-color:#7f0909;
+    border-color: #ad8b18 #ffc500 #ffc500 #ad8b18;
     border-width: 15px 9px 9px 15px;
