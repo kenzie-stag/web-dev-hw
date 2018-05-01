@@ -1,5 +1,5 @@
 body{
-  background-color: #b50f0f;
+  background-color: #620909;
 }
 .info{
   color: #ad8b18;
@@ -39,7 +39,7 @@ a {
 
 .button:active {
     color: #fff;
-    background-color:#7f0909;
+    background-color:#620909;
     border-color: #ad8b18 #ffc500 #ffc500 #ad8b18;
     border-width: 15px 9px 9px 15px;
 }
