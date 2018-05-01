@@ -42,3 +42,7 @@ a {
     background-color:#7f0909;
     border-color: #ad8b18 #ffc500 #ffc500 #ad8b18;
     border-width: 15px 9px 9px 15px;
+}
+.button:visited {
+  text-decoration: underline;
+}
