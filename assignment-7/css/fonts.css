@@ -9,6 +9,9 @@ url('https://fonts.googleapis.com/css?family=Old+Standard+TT');
 }
 .info {
   font-family: 'Cabin', sans-serif;
+  letter-spacing: 0.01em;
+  font-variant: small-caps;
+  text-align: center;
 }
 h1 {
   font-weight: 700;
@@ -21,4 +24,8 @@ h3 {
 }
 p {
   font-family: 'Old Standard TT', serif;
+  text-indent: 1.5em;
+}
+.p1 p:first-child::first-line {
+  text-decoration: overline;
 }
