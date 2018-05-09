@@ -46,7 +46,7 @@ font.trait {
 
 font.des {
   font-family: sans-serif;
-  font-size: 15px;
+  font-size: 12px;
   color: #303f44;
   font-weight: bold;
   text-align: justify;
@@ -55,7 +55,7 @@ font.des {
 
 font.description {
   font-family: serif;
-  font-size: 18px;
+  font-size: 15px;
   color: #303f44;
   text-align: justify;
 }
