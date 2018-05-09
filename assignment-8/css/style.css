@@ -24,7 +24,6 @@ body {
   top: 30px;
 	width: 550;
 	height: 500;
-  transform: rotate(-12deg);
 	z-index: 2;
 }
 
@@ -34,7 +33,6 @@ body {
     top: 90px;
 	width: 550;
 	height: 500;
-    transform: rotate(12deg);
 	z-index: 2;
 }
 
@@ -44,7 +42,6 @@ body {
     top: 270px;
 	width: 900;
 	height: 500;
-    transform: scaleY(1.5);
 	z-index: 2;
 }
 
@@ -56,11 +53,11 @@ body {
   	height: 50px;
   	background-color: #303f44;
   	z-index: 1;
-  	padding: 40px;
+  	padding: 20px;
   }
 
 .subtitle {
   position: absolute;
   left:367px;
-  top: 100px
+  top: 300px
 }
