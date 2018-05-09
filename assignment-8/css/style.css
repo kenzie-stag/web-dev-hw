@@ -110,6 +110,7 @@ body {
 
 .description {
   position: absolute;
-  left: 376px;
+  left: 400px;
   top: 490px;
+  width: 275px;
 }
