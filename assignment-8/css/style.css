@@ -1,0 +1,11 @@
+body {
+  background-color: white;
+  color: black;
+}
+
+#container {
+  width: 800 px;
+  height: 1749 px;
+  position: absolute;
+  background-color: #f1f1d4;
+}
