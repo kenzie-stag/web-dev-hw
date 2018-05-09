@@ -30,7 +30,7 @@ body {
 .rightheader {
   position: absolute;
     left: 500px;
-    top: 90px;
+    top: 30px;
 	width: 550;
 	height: 500;
 	z-index: 2;
