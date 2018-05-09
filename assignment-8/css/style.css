@@ -114,3 +114,13 @@ body {
   top: 900px;
   width: 340px;
 }
+
+.cutoutbox {
+  position: absolute;
+  left: 376px;
+  top: 1000px;
+  width: 340px;
+  height: 200px;
+  border-style: dashed;
+  border-color: #303f44;
+}
