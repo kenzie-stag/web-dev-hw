@@ -38,10 +38,10 @@ font.sub{
 
 font.trait {
   font-family: 'Pacifico', cursive;
-  font-size: 62px;
+  font-size: 56px;
   color: #ed1701;
   font-weight: bold;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.01em;
 }
 
 font.des {
