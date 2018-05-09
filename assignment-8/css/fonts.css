@@ -49,6 +49,7 @@ font.des {
   font-size: 15px;
   color: #303f44
   font-weight: bold;
+  text-align: justify;
 }
 
 font.description {
