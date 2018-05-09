@@ -24,3 +24,17 @@ font.cleaner{
 	font-size: 47px;
 	color: #303f44;
 }
+
+font.queen{
+  font-family: sans-serif;
+  font-size: 40;
+  color; #fdfdf1;
+  font-style: italic;
+}
+
+font.sub{
+  font-family: sans-serif;
+  font-size: 25;
+  color: #303f44;
+  font-style: italic;
+}
