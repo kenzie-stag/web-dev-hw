@@ -1,0 +1,26 @@
+@import
+url('https://fonts.googleapis.com/css?family=Pacifico');
+* {
+  font-family: 'Pacifico', cursive;
+}
+
+font.oh{
+    font-family: 'Pacifico', cursive;
+    src: url('./fonts/forte.ttf');
+	font-size: 72px;
+	color: #303f44;
+}
+
+font.whata{
+    font-family: 'Pacifico', cursive;
+    src: url('./fonts/forte.ttf');
+	font-size: 72px;
+	color: #303f44;
+}
+
+font.cleaner{
+    font-family: 'Pacifico', cursive;
+    src: url('./fonts/forte.ttf');
+	font-size: 47px;
+	color: #303f44;
+}

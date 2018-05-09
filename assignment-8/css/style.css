@@ -10,7 +10,7 @@ body {
   background-color: #fdfdf1;
 }
 
-#oh {
+#leftheader {
   position: absolute;
   left: 340px;
   top: 30px;
@@ -20,7 +20,7 @@ body {
 	z-index: 2;
 }
 
-#what.a {  position: absolute;
+#rightheader {  position: absolute;
     left: 500px;
     top: 90px;
 	width: 550;
