@@ -9,7 +9,7 @@ body {
   color: black;
 }
 
-#container {
+.container {
   width: 800px;
   height: 1749px;
   position: absolute;
@@ -18,7 +18,7 @@ body {
   background-color: #fdfdf1;
 }
 
-#leftheader {
+.leftheader {
   position: absolute;
   left: 340px;
   top: 30px;
@@ -28,7 +28,7 @@ body {
 	z-index: 2;
 }
 
-#rightheader {
+.rightheader {
   position: absolute;
     left: 500px;
     top: 90px;
@@ -38,7 +38,7 @@ body {
 	z-index: 2;
 }
 
-#title {
+.title {
       position: absolute;
       left: 376px;
       top: 260px;

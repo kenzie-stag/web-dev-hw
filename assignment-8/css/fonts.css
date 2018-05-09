@@ -5,36 +5,40 @@ url('https://fonts.googleapis.com/css?family=Pacifico');
 }
 
 font.oh{
-    font-family: 'Pacifico', cursive;
-    src: url('./fonts/forte.ttf');
+  font-family: 'Pacifico', cursive;
 	font-size: 72px;
 	color: #303f44;
 }
 
 font.whata{
-    font-family: 'Pacifico', cursive;
-    src: url('./fonts/forte.ttf');
+  font-family: 'Pacifico', cursive;
 	font-size: 72px;
 	color: #303f44;
 }
 
 font.cleaner{
-    font-family: 'Pacifico', cursive;
-    src: url('./fonts/forte.ttf');
+  font-family: 'Pacifico', cursive;
 	font-size: 47px;
 	color: #303f44;
 }
 
 font.queen{
   font-family: sans-serif;
-  font-size: 40;
+  font-size: 40px;
   color; #fdfdf1;
   font-style: italic;
 }
 
 font.sub{
   font-family: sans-serif;
-  font-size: 25;
+  font-size: 25px;
   color: #303f44;
   font-style: italic;
+}
+
+font.trait {
+  font-family: 'Pacifico', cursive;
+  font-size: 40px;
+  color: #ed1701;
+  font-weight: bold;
 }
