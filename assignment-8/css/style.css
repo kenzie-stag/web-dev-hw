@@ -1,4 +1,10 @@
+html {
+  padding: 0;
+}
+
 body {
+  padding: 0;
+  margin: 0;
   background-color: white;
   color: black;
 }
@@ -7,6 +13,8 @@ body {
   width: 800px;
   height: 1749px;
   position: absolute;
+  left: 200px;
+  right: 200px;
   background-color: #fdfdf1;
 }
 
