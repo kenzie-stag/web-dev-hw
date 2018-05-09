@@ -42,3 +42,9 @@ font.trait {
   color: #ed1701;
   font-weight: bold;
 }
+
+font.des {
+  font-family: sans-serif;
+  font-size: 18px;
+  color: #303f44
+}

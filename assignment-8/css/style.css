@@ -38,6 +38,16 @@ body {
 	z-index: 2;
 }
 
+.bottomheader {
+    position: absolute;
+    left: 300px;
+    top: 270px;
+	width: 900;
+	height: 500;
+    transform: scaleY(1.5);
+	z-index: 2;
+}
+
 .title {
       position: absolute;
       left: 376px;
