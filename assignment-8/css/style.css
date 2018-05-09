@@ -74,14 +74,14 @@ body {
 .desone {
   position: absolute;
   left: 576px;
-  top: 450px;
+  top: 430px;
   width: 200px;
 }
 
 .traittwo{
   position: absolute;
   left: 476px;
-  top: 500px;
+  top: 800px;
   width: 200px;
   height: 50px;
 }
@@ -89,14 +89,14 @@ body {
 .destwo {
   position: absolute;
   left: 526px;
-  top: 500px;
+  top: 800px;
   width: 150px;
 }
 
 .traitthree {
   position: absolute;
   left: 476px;
-  top: 500px;
+  top: 800px;
   width: 200px;
   height: 50px;
 }
@@ -104,13 +104,13 @@ body {
 .desthree{
   position: absolute;
   left: 526px;
-  top: 500px;
+  top: 800px;
   width: 150px;
 }
 
 .description {
   position: absolute;
   left: 500px;
-  top: 490px;
+  top: 890px;
   width: 275px;
 }
