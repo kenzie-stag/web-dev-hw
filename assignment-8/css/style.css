@@ -38,7 +38,7 @@ body {
 
 .bottomheader {
     position: absolute;
-    left: 300px;
+    left: 90px;
     top: 270px;
 	width: 900;
 	height: 500;
@@ -58,14 +58,16 @@ body {
 
 .subtitle {
   position: absolute;
-  left:367px;
+  left:376px;
   top: 300px
 }
 
 .traitone {
   position: absolute;
-  left: 376px
+  left: 476px
   top: 400px;
+  width: 200px;
+  height: 50px;
 }
 
 .desone {
@@ -76,8 +78,10 @@ body {
 
 .traittwo{
   position: absolute;
-  left: 376px
+  left: 476px
   top: 430px;
+  width: 200px;
+  height: 50px;
 }
 
 .destwo {
@@ -88,8 +92,10 @@ body {
 
 .traitthree {
   position: absolute;
-  left: 376px
+  left: 476px
   top: 460px;
+  width: 200px;
+  height: 50px;
 }
 
 .desthree{
