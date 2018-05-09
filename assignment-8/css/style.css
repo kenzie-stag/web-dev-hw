@@ -61,3 +61,45 @@ body {
   left:367px;
   top: 300px
 }
+
+.traitone {
+  position: absolute;
+  left: 376px
+  top: 400px;
+}
+
+.desone {
+  position: absolute;
+  left: 376px
+  top: 410px;
+}
+
+.traittwo{
+  position: absolute;
+  left: 376px
+  top: 430px;
+}
+
+.destwo {
+  position: absolute;
+  left: 376px
+  top: 440px;
+}
+
+.traitthree {
+  position: absolute;
+  left: 376px
+  top: 460px;
+}
+
+.desthree{
+  position: absolute;
+  left: 376px
+  top: 470px;
+}
+
+.description {
+  position: absolute;
+  left: 376px
+  top: 490px;
+}
