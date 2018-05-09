@@ -19,7 +19,7 @@ body {
 
 .leftheader {
   position: absolute;
-  left: 320px;
+  left: 310px;
   top: 30px;
 	width: 550;
 	height: 500;
@@ -29,7 +29,7 @@ body {
 
 .rightheader {
   position: absolute;
-    left: 520px;
+    left: 530px;
     top: 30px;
 	width: 550;
 	height: 500;
