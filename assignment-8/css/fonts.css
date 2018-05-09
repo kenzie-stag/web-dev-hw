@@ -75,7 +75,7 @@ font.last {
   text-align: center;
 }
 
-font.caption {
+font.caption, b {
   font-family: sans-serif;
   font-size: 12px;
   color: #303f44;
