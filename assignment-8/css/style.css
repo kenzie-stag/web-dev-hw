@@ -7,5 +7,23 @@ body {
   width: 800 px;
   height: 1749 px;
   position: absolute;
-  background-color: #f1f1d4;
+  background-color: #fdfdf1;
 }
+
+#oh {
+  position: absolute;
+  left: 340px;
+  top: 30px;
+	width: 550;
+	height: 500;
+  transform: rotate(-12deg);
+	z-index: 2;
+}
+
+#what.a {  position: absolute;
+    left: 500px;
+    top: 90px;
+	width: 550;
+	height: 500;
+    transform: rotate(12deg);
+	z-index: 2;}
