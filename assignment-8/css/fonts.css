@@ -55,5 +55,6 @@ font.des {
 font.description {
   font-family: serif;
   font-size: 18px;
-  color: #303f44
+  color: #303f44;
+  text-align: justify;
 }
