@@ -20,10 +20,23 @@ body {
 	z-index: 2;
 }
 
-#rightheader {  position: absolute;
+#rightheader {
+  position: absolute;
     left: 500px;
     top: 90px;
 	width: 550;
 	height: 500;
     transform: rotate(12deg);
-	z-index: 2;}
+	z-index: 2;
+}
+
+#title {
+      position: absolute;
+      left: 376px;
+      top: 260px;
+  	width: 400px;
+  	height: 100px;
+  	background-color: #303f44;
+  	z-index: 1;
+  	padding: 40px;
+  }
