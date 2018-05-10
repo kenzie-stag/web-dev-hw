@@ -128,13 +128,14 @@ body {
 
 .bottomline{
   postion: absolute;
-  top: 1500px;
-  width: 800px;
+  top: 1740px;
+  left: 300px;
+  width: 300px;
 }
 
 .bottomnumber {
   position: absolute;
-  top: 1500px;
+  top: 1740px;
   width: 100px;
 }
 
