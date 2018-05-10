@@ -102,6 +102,15 @@ body {
   width: 200px;
 }
 
+.icon2 {
+    position: absolute;
+   left: 363px;
+   top: 620px;
+   width: 500;
+   height: 300;
+   z-index: 1;
+}
+
 .traitthree {
   position: absolute;
   left: 506px;
@@ -115,6 +124,15 @@ body {
   left: 556px;
   top: 800px;
   width: 200px;
+}
+
+.icon3 {
+    position: absolute;
+   left: 363px;
+   top: 720px;
+   width: 500;
+   height: 300;
+   z-index: 1;
 }
 
 .presenting {
