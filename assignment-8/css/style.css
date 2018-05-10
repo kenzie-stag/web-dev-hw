@@ -121,6 +121,7 @@ body {
   top: 1500px;
   width: 340px;
   height: 200px;
+  line-height: 2px;
   border-style: dashed;
   border-color: #303f44;
 }
@@ -140,13 +141,13 @@ body {
 .firstpiccapt {
   position: absolute;
   top: 700px;
-  left: 100px;
+  left: 25px;
   width: 300px;
 }
 
 .secondpiccapt {
   position: absolute;
   top: 900px;
-  left: 100px;
+  left: 25px;
   width: 300px;
 }
