@@ -121,7 +121,7 @@ body {
   top: 1500px;
   width: 340px;
   height: 200px;
-  line-height: 2px;
+  line-height: .5em;
   border-style: dashed;
   border-color: #303f44;
 }
