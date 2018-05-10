@@ -50,7 +50,7 @@ font.des {
   color: #303f44;
   font-weight: bold;
   text-align: justify;
-  line-height: 10px;
+  line-height: 2px;
 }
 
 font.description {
@@ -65,7 +65,7 @@ font.cutout {
   font-weight: bold;
   font-size: 12px;
   color:#303f44;
-  line-height: 10px;
+  line-height: 2px;
 }
 
 font.last {
