@@ -50,7 +50,7 @@ font.des {
   color: #303f44;
   font-weight: bold;
   text-align: justify;
-  line-height: 2px;
+  line-height: 1.45em;
 }
 
 font.description {
@@ -63,7 +63,7 @@ font.description {
 font.cutout {
   font-family: sans-serif;
   font-weight: bold;
-  font-size: 12px;
+  font-size: 15px;
   color:#303f44;
   line-height: 1.45em;
 }
@@ -77,7 +77,7 @@ font.last {
 
 font.caption, b {
   font-family: sans-serif;
-  font-size: 12px;
+  font-size: 15px;
   color: #303f44;
   text-align: justify;
 }

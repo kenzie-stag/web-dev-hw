@@ -34,7 +34,7 @@ body {
 	width: 550;
 	height: 500;
   transform: rotate(15deg);
-	z-index: 2;
+	z-index: 1;
 }
 
 .bottomheader {
@@ -148,6 +148,7 @@ body {
   top: 1500px;
   width: 340px;
   height: 200px;
+  padding: 10px;
   line-height: 1.45em;
   border-style: dashed;
   border-color: #303f44;
@@ -170,13 +171,13 @@ body {
 .firstpiccapt {
   position: absolute;
   top: 1500px;
-  left: 25px;
+  left: 50px;
   width: 300px;
 }
 
 .secondpiccapt {
   position: absolute;
   top: 1600px;
-  left: 25px;
+  left: 50px;
   width: 300px;
 }
