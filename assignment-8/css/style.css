@@ -141,14 +141,23 @@ body {
 
 .firstpiccapt {
   position: absolute;
-  top: 700px;
+  top: 1500px;
   left: 25px;
   width: 300px;
 }
 
 .secondpiccapt {
   position: absolute;
-  top: 900px;
+  top: 1600px;
   left: 25px;
   width: 300px;
+}
+
+.icon1 {
+    position: absolute;
+   left: 363px;
+   top: 447px;
+   width: 500;
+   height: 300;
+   z-index: 1;
 }
