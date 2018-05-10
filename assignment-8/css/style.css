@@ -151,6 +151,15 @@ body {
   z-index: 2;
 }
 
+.guarantee {
+  position: absolute;
+  left: 480px;
+  top: 1350px;
+  width: 500;
+  height: 300;
+  z-index: 3;
+}
+
 .cutoutbox {
   position: absolute;
   left: 376px;
