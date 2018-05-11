@@ -187,6 +187,15 @@ body {
   width: 100px;
 }
 
+.lady {
+  position: absolute;
+  left: 15px;
+  top: 135px;
+  width: 500;
+  height: 300;
+  z-index: 4;
+}
+
 .firstpiccapt {
   position: absolute;
   top: 1500px;
