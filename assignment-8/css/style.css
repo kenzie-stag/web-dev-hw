@@ -212,6 +212,15 @@ body {
   width: 300px;
 }
 
+.filterqueen {
+  position: absolute;
+  left: 15px;
+  top: 1500px;
+  width: 500;
+  height: 300;
+  z-index: 3;
+}
+
 .secondpiccapt {
   position: absolute;
   top: 1600px;
