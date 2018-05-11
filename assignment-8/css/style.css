@@ -198,7 +198,7 @@ body {
 
 .scene {
   position: absolute;
-  left: 15px;
+  left: 20px;
   top: 950px;
   width: 500;
   height: 300;
@@ -207,8 +207,8 @@ body {
 
 .firstpiccapt {
   position: absolute;
-  top: 1100px;
-  left: 15px;
+  top: 1150px;
+  left: 20px;
   width: 300px;
   line-height: 1.2em;
 }
