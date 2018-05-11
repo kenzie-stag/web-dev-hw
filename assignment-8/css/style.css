@@ -216,7 +216,7 @@ body {
 .filterqueen {
   position: absolute;
   left: 25px;
-  top: 1350px;
+  top: 1250px;
   width: 500;
   height: 300;
   z-index: 3;
@@ -224,7 +224,7 @@ body {
 
 .secondpiccapt {
   position: absolute;
-  top: 1550px;
+  top: 1480px;
   left: 25px;
   width: 300px;
   line-height: 1.2em;
