@@ -199,7 +199,7 @@ body {
 .scene {
   position: absolute;
   left: 20px;
-  top: 950px;
+  top: 900px;
   width: 500;
   height: 300;
   z-index: 3;
