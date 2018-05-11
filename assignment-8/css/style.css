@@ -151,13 +151,13 @@ body {
   z-index: 2;
 }
 
-.guarantee {
+.guaranty {
   position: absolute;
-  left: 500px;
-  top: 1350px;
+  left: 376px;
+  top: 1200px;
   width: 500;
   height: 300;
-  z-index: 3;
+  z-index: 2;
 }
 
 .cutoutbox {
