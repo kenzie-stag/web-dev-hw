@@ -207,9 +207,10 @@ body {
 
 .firstpiccapt {
   position: absolute;
-  top: 1500px;
-  left: 50px;
+  top: 1100px;
+  left: 15px;
   width: 300px;
+  line-height: 1.2em;
 }
 
 .filterqueen {
