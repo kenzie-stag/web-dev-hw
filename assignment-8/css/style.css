@@ -163,7 +163,7 @@ body {
 .cutoutbox {
   position: absolute;
   left: 376px;
-  top: 1500px;
+  top: 1480px;
   width: 340px;
   height: 200px;
   padding: 10px;
@@ -175,7 +175,7 @@ body {
 
 .bottomline{
   position: absolute;
-  top: 1740px;
+  top: 1700px;
   left: 300px;
   width: 400px;
 }
